@@ -6,10 +6,10 @@ This is an anime streaming platform built with React, Tailwind, Vite, React Rout
 ## Getting Started
 To get started with the project, follow these steps:
 
-- Clone the repository: git clone https://github.com/yourusername/anime-streaming-platform.git
+- Clone the repository: git clone https://github.com/PrtHub/Aniplex--Anime_Streaming_platform.git
 - Install dependencies: npm install
 - Start the development server: npm run dev
-- Open the app in your browser: http://localhost:3000
+- Open the app in your browser: http://localhost:5173
 
 ## Technologies Used
 The following technologies were used in the project:
